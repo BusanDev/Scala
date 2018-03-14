@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81216bb7-82ac-4a37-90ec-567e9792a8db" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Ch06/04 list2.sc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Ch06/`연습문제 1`.sc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Ch06/`연습문제 2`.sc" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Ch06/`연습문제1`.sc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Ch06/collection_converter.sc" afterPath="$PROJECT_DIR$/Ch06/10 collection_converter.sc" />
-      <change beforePath="$PROJECT_DIR$/Ch06/collection_pattern_matching.sc" afterPath="$PROJECT_DIR$/Ch06/11 collection_pattern_matching.sc" />
-      <change beforePath="$PROJECT_DIR$/Ch06/cons.sc" afterPath="$PROJECT_DIR$/Ch06/05 cons.sc" />
-      <change beforePath="$PROJECT_DIR$/Ch06/list.sc" afterPath="$PROJECT_DIR$/Ch06/01 list.sc" />
-      <change beforePath="$PROJECT_DIR$/Ch06/list_arithmetic.sc" afterPath="$PROJECT_DIR$/Ch06/06 list_arithmetic.sc" />
-      <change beforePath="$PROJECT_DIR$/Ch06/list_folding.sc" afterPath="$PROJECT_DIR$/Ch06/09 list_folding.sc" />
-      <change beforePath="$PROJECT_DIR$/Ch06/list_mapping.sc" afterPath="$PROJECT_DIR$/Ch06/07 list_mapping.sc" />
-      <change beforePath="$PROJECT_DIR$/Ch06/list_reducing.sc" afterPath="$PROJECT_DIR$/Ch06/08 list_reducing.sc" />
-      <change beforePath="$PROJECT_DIR$/Ch06/map.sc" afterPath="$PROJECT_DIR$/Ch06/03 map.sc" />
-      <change beforePath="$PROJECT_DIR$/Ch06/set.sc" afterPath="$PROJECT_DIR$/Ch06/02 set.sc" />
+      <change beforePath="$PROJECT_DIR$/Ch06/`연습문제 2`.sc" afterPath="$PROJECT_DIR$/Ch06/`연습문제 2`.sc" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +12,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="`연습문제 2`.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ch06/`연습문제 2`.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="`연습문제 1`.sc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch06/`연습문제 1`.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +70,7 @@
         <option value="$PROJECT_DIR$/Ch06/`연습문제 1`.sc" />
         <option value="$PROJECT_DIR$/Ch06/01 list.sc" />
         <option value="$PROJECT_DIR$/Ch06/04 list2.sc" />
+        <option value="$PROJECT_DIR$/Ch06/`연습문제 2`.sc" />
       </list>
     </option>
   </component>
@@ -242,15 +249,16 @@
       <option name="presentableId" value="Default" />
       <updated>1520987476329</updated>
       <workItem from="1520987478194" duration="2776000" />
-      <workItem from="1520990356939" duration="3896000" />
+      <workItem from="1520990356939" duration="8994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6672000" />
+    <option name="totallyTimeSpent" value="11770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -265,7 +273,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -288,7 +296,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -329,22 +339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch06/`연습문제 2`.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch06/`연습문제 1`.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -401,6 +395,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/`연습문제 1`.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/`연습문제 2`.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
           <folding />
         </state>
       </provider>
