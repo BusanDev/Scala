@@ -1,4 +1,4 @@
-// 맵 생
+// 맵 생성
 val colorMap = Map("red" -> 0xFF0000, "green" -> 0xFF00, "blue" -> 0xFF)
 
 // 키 검색
@@ -13,7 +13,7 @@ val hasWhite = colorMap.contains("white")
 // for
 for (pairs <- colorMap) {println(pairs)}
 
-// 키 - 맵 짬
+// 키 - 맵 짬뽕
 val map = Map(
   "number1" -> "aa",
   "number2" -> "bb",
