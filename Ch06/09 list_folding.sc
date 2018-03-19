@@ -1,7 +1,8 @@
 val list = List(4, 5, 6)
+val list2 = List("이", "삼", "사")
 
-// fold(start index)(reduce function)
-val fold = list.fold(0)(_ + _)
+// fold(start value)(reduce function)
+val fold = list2.fold("일")(_ + _)
 
 // foldLeft
 val foldLeft = list.foldLeft(0)(_ + _)

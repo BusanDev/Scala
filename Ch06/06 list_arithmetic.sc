@@ -35,6 +35,8 @@ val `filter 1` = List(23, 8, 14, 17, 0) filter (_ > 15)
 
 // flatten
 val `flatten 1` = List(List(1, 2), List(3, 4)) flatten
+val `flatten 2` = List(List(1), Set(1, 2, 3), Map(3 -> 4)) flatten
+
 
 // partition
 val `partition 1` = numbers partition (_ < 3)
@@ -47,8 +49,8 @@ val `slice 1` = numbers slice (1, 3)
 val `slice 2` = numbers slice (0, 3)
 
 // sortBy
-val `sortBy 1` = List("nice", "to", "meet", "you") sortBy (_.size)
-val `sortBy 2` = List("hello", "stranger") sortBy (_.length) reverse
+val `sortBy 1` = List("박태", "to", "meet", "you") sortBy (_.size)
+val `sortBy 2` = List("박태", "to", "meet", "you") sortBy (_.length) reverse
 
 // sorted
 val `sorted 1` = List(1, 3, 2, 4, 5, 0) sorted

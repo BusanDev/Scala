@@ -1,5 +1,6 @@
 // 생성 연산자를 사용해서 리스트 만들기
 val list = "a" :: "b" :: "c" :: Nil
+val list2 = List("a", "b")
 
 for (x <- 0 until list.size)
   println(list(x))
